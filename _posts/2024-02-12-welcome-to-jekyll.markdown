@@ -2,7 +2,7 @@
 layout: post
 title:  "Saiba como criei esse blog estático no GitHub Pages com jekyll"
 date:   2024-02-13 20:15:00 -0300
-categories: create jekyll 
+categories: post 
 ---
 # Criando um blog no GitHub Pages com jekyll
 
