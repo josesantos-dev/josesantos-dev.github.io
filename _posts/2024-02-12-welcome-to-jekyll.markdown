@@ -6,7 +6,7 @@ categories: post
 ---
 # Criando um blog no GitHub Pages com jekyll
 
-Passo a passo do que eu fiz:.
+Passo a passo do que eu fiz:
 
 `Passo 1`
 
